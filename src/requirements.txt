@@ -1,6 +1,7 @@
-pandas
-numpy
-matplotlib
-seaborn
-catboost
-scipy
+pandas== 2.2.0
+numpy==1.26.4
+matplotlib==3.8.3
+seaborn==0.13.2
+catboost==1.2.2
+scipy==1.12.0
+pyarrow==14.0.1
