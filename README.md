@@ -11,8 +11,6 @@ A empresa Credito para pessoa fisica determinou este projeto para responder a pe
 * **Matplotlib:** Biblioteca para construção de gráficos
 * **Math:** Biblioteca para calculos matematicos
 
-
-
 ## Dataset 📊
 O conjunto de dados possui os seguintes campos:
 * `gender` - gênero
@@ -43,6 +41,7 @@ O conjunto de dados possui os seguintes campos:
 ### Ofuscando Dados
 * Ofuscando os dados do conjunto
 * Aplicando regressão linear no conjunto ofuscado
+
 
 ## Aprendizados 🎓
 * **Análise de dados:** interpretação e extração de insights valiosos a partir de grandes volumes de dados
