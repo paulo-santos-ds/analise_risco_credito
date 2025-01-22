@@ -38,6 +38,7 @@ O conjunto de dados possui os seguintes campos:
    * Criação do modelo utilizando álgebra linear
    * Avaliação do modelo
 
+
 ### Ofuscando Dados
 * Ofuscando os dados do conjunto
 * Aplicando regressão linear no conjunto ofuscado
