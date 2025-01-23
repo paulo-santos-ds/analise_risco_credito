@@ -44,6 +44,9 @@ O conjunto de dados possui os seguintes campos:
 * Aplicando regressão linear no conjunto ofuscado
 
 
+
+
+
 ## Aprendizados 🎓
 * **Análise de dados:** interpretação e extração de insights valiosos a partir de grandes volumes de dados
 * **Preparação do conjunto:** separação do conjunto original em teste e treino, além da seleção das features e target do modelo
